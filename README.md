@@ -39,7 +39,8 @@ Demand forecasting plays a critical role in supply chain management by predictin
 
 ## Example
 
-![image](https://github.com/nkusharoraa/SCM/assets/59050030/4a96610b-39d2-4fdb-a1f3-216686a72256)
+![image](https://github.com/nkusharoraa/DemandForecasting/assets/59050030/4fc8f57b-ee5d-41b2-9531-a518aa3095b7)
+
 ```
 SES - MSE: 4685.333229537704, MAE: 59.130087580002304
 Holt's Linear - MSE: 14436.43263139262, MAE: 120.05214670003323
