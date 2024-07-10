@@ -1,4 +1,6 @@
 # Demand Forecasting Using Time Series Analysis and Exponential Smoothing
+## Repository Link
+[Demand Forecasting](https://github.com/nkusharoraa/DemandForecasting)
 
 ## Project Overview
 
